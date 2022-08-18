@@ -27,3 +27,4 @@
 #### The Data is limited in the factors associated with failures. The data only has goal amount, pledge amount, category location and date to work with as factors for success or failure. It would be nice to analyse other in depth factors such as genre or sample preferences as well. 
 
 #### Other graphs that could have been created witht the data are Subcategory Type VS Outcome in specific Countries, Backers count Vs Outcome Or average donation Vs Outcome. 
+[Module 1 Challenge - Erin Cramer.zip](https://github.com/Ecramer7/Kickstarter-analysis-/files/9367865/Module.1.Challenge.-.Erin.Cramer.zip)
