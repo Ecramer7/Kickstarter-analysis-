@@ -2,7 +2,7 @@
 
 ## Overview of Project 
 
-### Louise is a client that is interested in different performance based Kickstarters and how they measure up her favorite play Fever. She is curious to see how the different campaigns performed in terms of the launch date compared to goals and outcomes based on goals. The results below conveying the results of each of these analyses based on a data sheet of worldwide Kickstarters. 
+#### Louise is a client that is interested in different performance based Kickstarters and how they measure up her favorite play Fever. She is curious to see how the different campaigns performed in terms of the launch date compared to goals and outcomes based on goals. The results below conveying the results of each of these analyses based on a data sheet of worldwide Kickstarters. 
 
 ## Analysis and Challenges 
 
